@@ -1,5 +1,3 @@
-
-
 n, m = input().split()
 
 sc_ar = input().split()
