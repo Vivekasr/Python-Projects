@@ -1,5 +1,3 @@
-
-
 n = int(input())
 nums1 = set(map(int, input().split())) 
 b = int(input())
