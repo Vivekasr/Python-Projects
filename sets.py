@@ -1,6 +1,3 @@
-
-
-
 M = int(input())
 input1 =input().split()
 lst1 = []
